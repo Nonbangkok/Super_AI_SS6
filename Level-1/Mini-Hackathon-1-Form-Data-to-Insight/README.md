@@ -1,4 +1,4 @@
-# Super_AI_SS6
+# Mini Hackathon 1 : Form Data to Insight
 
 📦 ชุดข้อมูล: สถิติหน่วยจำหน่ายไฟฟ้าแยกตามเขต
 Electricity Consumption by District (Metropolitan Electricity Authority)
